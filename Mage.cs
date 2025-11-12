@@ -12,7 +12,7 @@ namespace Dz_5
             new Shield()
         };
 
-        public Mage(string name) : base(name, 8000, 0, 60)
+        public Mage(string name) : base(name, 80, 0, 60)
         {
 
         }
